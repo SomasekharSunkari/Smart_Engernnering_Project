@@ -1,0 +1,37 @@
+.upload-btn {
+  background-color: white !important;
+  color: black !important;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 10px;
+  width: 300px !important;
+  padding-bottom: 10px;
+  margin-top: 50px !important;
+  margin-left: 300px !important;
+}
+.files {
+  margin-left: 400px;
+}
+
+th {
+  width: 200px;
+  text-align: center;
+  padding: 15px;
+  font-size: 30px;
+  background-color: transparent;
+}
+th.name {
+  width: 300px;
+}
+td {
+  text-align: center;
+  margin-top: 20px;
+  padding: 10px;
+}
+table,
+tr,
+td,
+th {
+  border: 2px solid white;
+  /* border-collapse: unset; */
+}
